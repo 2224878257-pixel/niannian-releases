@@ -1,0 +1,13 @@
+*.exe
+*.zip
+SHA256SUMS.txt
+settings.json
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
